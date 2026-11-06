@@ -9,7 +9,7 @@
 
 ### 🌷A little about me
 
-I'm interested in how technology can improve the way we think and work.
+I'm interested in how technology can improve the way we think and work
 
 - 🎓 MSc student in Information Systems at Kristiania, specialising in Digital Business Systems
 - 👩🏽‍💻 BSc in Applied Computer Technology from OsloMet
@@ -52,7 +52,7 @@ I helped prototype a game that teaches children about online safety and explored
 
 ### Tools & Technologies
 
-*Some of the tools I use and technologies I’m exploring.*
+*Some of the tools I use and technologies I’m exploring*
 <br>
 
 <p align="center">
