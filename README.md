@@ -1,48 +1,47 @@
 
 <div align="center">
 
-<img src="./r&m.jpeg" alt="Rick and Morty" width="70%" />
+<img src="./banner.jpg" alt="Rick and Morty" width="100%" />
 
-# Hi, I'm Christina!👋
+#  Hi, I'm Christina!👋 
 
 </div>
 
-### 🌷 A little about me
+### 🌷A little about me
 
-I'm interested in the people and business side of technology, and how digital solutions can improve the way we think and work.
+I'm interested in how technology can improve the way we think and work.
 
-- 🎓 Currently pursuing an MSc in Information Systems at Kristiania
-- 💻 BSc in Applied Computer Technology from OsloMet
-- 💼 Former technical lead at SEEEK, with experience in product development and IT support
-- 🌍 Outside of tech: climbing, nature & traveling
+- 🎓 MSc student in Information Systems at Kristiania, specialising in Digital Business Systems
+- 👩🏽‍💻 BSc in Applied Computer Technology from OsloMet
+- 🌱 Former technical lead at SEEEK, with experience in product development and IT support
+- 🍄 Outside of tech, I like working out, trying new recipes, getting outdoors, travelling, and spending time with my family.
 
 ---
 
-### 💻 A few things I've worked on
+### A few projects I've recently worked on
 
-#### 🏭 Production Line Simulator
-<sub>GOODTECH · BACHELOR'S THESIS</sub>
+#### Production Line Simulator 
+*🏭 Goodtech · Bachelor's thesis*
 
-A web-based application for modelling and simulating production lines, helping users explore production flows and identify bottlenecks.
+For my bachelor’s thesis, I led a five-person team and built the frontend of a web-based discrete-event simulator for Goodtech. Users can model a production line, identify bottlenecks, and compare throughput across scenarios before making changes on the factory floor.
 
 `React` · `TypeScript` · `.NET` · `PostgreSQL`
 
 <br>
 
-#### 🚀 SEEEK – Outdoor Gear Marketplace
-<sub>STARTUP · TECHNICAL LEAD</sub>
+#### SEEEK – Outdoor Gear Marketplace
+*🚀 Startup · Technical lead*
 
-Helped build an outdoor equipment rental platform, working on product development, technical decisions and user experience.
+I started out building features for SEEEK’s outdoor gear rental marketplace. As technical lead, I set development priorities, tested prototypes with users, and helped add a Gemini feature that drafts rental listings.
 
 `React` · `TypeScript` · `Supabase` · `Stripe` · `Firebase` · `Google Gemini`
 
-
 <br>
 
-#### 🔐 SikkerVett – Digital Safety Game
-<sub>EDTECH · CONCEPT & BUSINESS DEVELOPMENT</sub>
+#### SikkerVett – Digital Safety Game
+*🔐 EdTech · Concept and business development*
 
-Developed a game-based learning concept to teach children about online safety, combining UX prototyping with business model development and business planning.
+I helped prototype a game that teaches children about online safety and explored how the concept could work as a business.
 
 `Figma` · `Design Thinking` · `Business Model Canvas`
 
@@ -50,13 +49,15 @@ Developed a game-based learning concept to teach children about online safety, c
 
 <div align="center">
 
-### 🛠️ Tools & Technologies
 
-*Technologies I've worked with and tools I'm exploring.*
+### Tools & Technologies
 
+*Some of the tools I use and technologies I’m exploring.*
 <br>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,idea,git,github,figma,azure,vscode&theme=light&perline=11" height="43" alt="Technology icons" />&nbsp;<img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude" />
+<p align="center">
+  <img src="./tech-icons.png" width="640" alt="React, TypeScript, JavaScript, HTML, CSS, IntelliJ IDEA, Git, GitHub, Figma, Azure, VS Code, Claude og Codex" />
+</p>
 
 </div>
 
@@ -64,8 +65,7 @@ Developed a game-based learning concept to teach children about online safety, c
 
 <div align="center">
 
-### 💫 Things I'm curious about
-*From digital innovation to the way technology shapes businesses.*
+### Topics I'm curious about
 
 <img src="./Digital.png" width="38%" alt="Digital Innovation" />
 <img src="./AI.png" width="38%" alt="AI and Automation" />
@@ -77,12 +77,9 @@ Developed a game-based learning concept to teach children about online safety, c
 
 ---
 
-
 <div align="center">
-
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=000000&center=true&vCenter=true&width=350&height=30&lines=Thanks+for+stopping+by!" alt="Thanks for stopping by!" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1500&color=000000&center=true&vCenter=true&width=350&height=30&lines=Thanks+for+stopping+by!" alt="Thanks for stopping by!"/>
 </div>
 
