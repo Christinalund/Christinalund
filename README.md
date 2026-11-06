@@ -9,7 +9,7 @@
 
 ### 🌷 A little about me
 
-I'm interested in the people and business side of technology, and how digital solutions can improve the way we work.
+I'm interested in the people and business side of technology, and how digital solutions can improve the way we think and work.
 
 - 🎓 Currently pursuing an MSc in Information Systems at Kristiania
 - 💻 BSc in Applied Computer Technology from OsloMet
