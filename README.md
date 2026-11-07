@@ -23,7 +23,7 @@ I'm interested in how technology can improve the way we think and work
 #### Production Line Simulator 
 *🏭 Goodtech · Bachelor's thesis*
 
-For my bachelor’s thesis, I led a five-person team and built the frontend of a web-based discrete-event simulator for Goodtech. Users can model a production line, identify bottlenecks, and compare throughput across scenarios before making changes on the factory floor.
+For my bachelor’s thesis, I led a five-person team where we built a web-based discrete-event simulator for Goodtech. Users can model production lines, analyse KPIs, and identify bottlenecks to test improvements before making changes on the factory floor.
 
 `React` · `TypeScript` · `.NET` · `PostgreSQL`
 
