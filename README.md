@@ -20,7 +20,7 @@ I'm interested in how technology can improve the way we think and work
 
 ### A few projects I've recently worked on
 
-#### Production Line Simulator 
+#### [Production Line Simulator](https://github.com/Christinalund/production-simulator-goodtech)
 *🏭 Goodtech · Bachelor's thesis*
 
 For my bachelor’s thesis, I led a five-person team where we built a web-based discrete-event simulator for Goodtech. Users can model production lines, analyse KPIs, and identify bottlenecks to test improvements before making changes on the factory floor.
