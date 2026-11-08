@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="./banner.jpg" alt="Rick and Morty" width="100%" />
+<img src="./git_banner.png" alt="Rick and Morty" width="100%" />
+
 
 #  Hi, I'm Christina!👋 
 
@@ -14,7 +15,7 @@ I'm interested in how technology can improve the way we think and work
 - 🎓 MSc student in Information Systems at Kristiania, specialising in Digital Business Systems
 - 👩🏽‍💻 BSc in Applied Computer Technology from OsloMet
 - 🌱 Former technical lead at SEEEK, with experience in product development and IT support
-- 🍄 Outside of tech, I like working out, trying new recipes, getting outdoors, travelling, and spending time with my family.
+- ☀️ Outside of tech, I like working out, trying new recipes, getting outdoors, travelling, and spending time with my family.
 
 ---
 
@@ -49,7 +50,6 @@ I helped prototype a game that teaches children about online safety and explored
 
 <div align="center">
 
-
 ### Tools & Technologies
 
 *Some of the tools I use and technologies I’m exploring*
@@ -58,20 +58,6 @@ I helped prototype a game that teaches children about online safety and explored
 <p align="center">
   <img src="./tech-icons.png" width="640" alt="React, TypeScript, JavaScript, HTML, CSS, IntelliJ IDEA, Git, GitHub, Figma, Azure, VS Code, Claude og Codex" />
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-### Topics I'm curious about
-
-<img src="./Digital.png" width="38%" alt="Digital Innovation" />
-<img src="./AI.png" width="38%" alt="AI and Automation" />
-
-<img src="./Product.png" width="38%" alt="Product Development" />
-<img src="./System.png" width="38%" alt="System Architecture" />
 
 </div>
 
